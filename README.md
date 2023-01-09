@@ -7,5 +7,5 @@ My name is Deonte Horton and I've been coding for 3 and a half years now but onl
 - ⚡ Fun fact: I played soccer for 11 years and I'm really good at it, also video games too.
 - 📫 How to reach me:
 - [Linkeden Profile](https://www.linkedin.com/in/deonte-horton-b34aab189/)
-- [My Email:deontedeshaunhorton@gmail.com](mailto:deontedeshaunhorton@gmail.com)
+- [My Email:dhorton@deonte.dev](mailto:dhorton@deonte.dev)
 - [My old Portfolio Site - working on a new one](https://portfolio.deonte.dev)
