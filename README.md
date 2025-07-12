@@ -9,4 +9,3 @@ My name is Deonte Horton and I've been coding for 4 years now but only 3 years p
 - [Linkeden Profile](https://www.linkedin.com/in/deonte-horton/)
 - [My Email: dhorton@deonte.dev](mailto:dhorton@deonte.dev)
 - [Portfolio Site](https://deonte.dev)
-- [My old Portfolio Site - working on a new one](https://portfolio.deonte.dev)
